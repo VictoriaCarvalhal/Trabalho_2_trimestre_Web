@@ -50,7 +50,7 @@
         fclose($f);
     }
 ?>
-    <a href="AnoViolenciaContraAMulher.php"><input type="button"value="←"></a>
+    <a href="AnoViolenciaContraAMulher.php"><input type="button"value="Voltar"></a>
 </table>
 </body>
 </html>
